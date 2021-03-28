@@ -1,0 +1,4 @@
+#Mon Mar 29 02:10:06 IST 2021
+base.0=C\:\\Users\\prath\\Documents\\cosmo_coder_repositories\\CosmoCoder\\pin\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
